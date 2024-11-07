@@ -1,0 +1,9 @@
+body {
+    background-image: url('photo_2024-11-03_22-00-56.jpg'); /* Replace 'your-image.jpg' with the path to your background image */
+    background-size: cover; /* Scales the image to cover the entire background */
+    background-position: center; /* Centers the image */
+    background-attachment: fixed; /* Keeps the background fixed when scrolling */
+    background-repeat: no-repeat; /* Prevents the background from repeating */
+    color: white; /* Sets default text color to white for readability */
+  }
+  
